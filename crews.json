@@ -1,4 +1,15 @@
 {
-  "crews": {},
+  "crews": {
+    "1064147628398477312": {
+      "name": "The crew",
+      "icon": null,
+      "roblox": "https://123",
+      "discord": "https://123",
+      "owner": "1064147628398477312",
+      "roster": {
+        "1064147628398477312": "owner"
+      }
+    }
+  },
   "pending_invites": {}
 }
