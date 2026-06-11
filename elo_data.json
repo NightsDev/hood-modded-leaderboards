@@ -1,0 +1,98 @@
+{
+  "1447123381446115363": {
+    "elo": 973,
+    "wins": 1,
+    "losses": 4,
+    "name": "bozlerty",
+    "history": [
+      {
+        "result": "L",
+        "elo_change": -11,
+        "old_elo": 984,
+        "new_elo": 973,
+        "opponent": "polosayuruki",
+        "timestamp": "2026-06-06T08:55:38.241604+00:00"
+      },
+      {
+        "result": "L",
+        "elo_change": -13,
+        "old_elo": 997,
+        "new_elo": 984,
+        "opponent": "polosayuruki",
+        "timestamp": "2026-06-06T08:52:51.605581+00:00"
+      },
+      {
+        "result": "L",
+        "elo_change": -16,
+        "old_elo": 1013,
+        "new_elo": 997,
+        "opponent": "polosayuruki",
+        "timestamp": "2026-06-06T08:32:50.404174+00:00"
+      },
+      {
+        "result": "W",
+        "elo_change": 28,
+        "old_elo": 985,
+        "new_elo": 1013,
+        "opponent": "polosayuruki",
+        "timestamp": "2026-06-06T08:22:37.437373"
+      },
+      {
+        "result": "L",
+        "elo_change": -15,
+        "old_elo": 1000,
+        "new_elo": 985,
+        "opponent": "polosayuruki",
+        "timestamp": "2026-06-06T05:36:13.612593"
+      }
+    ]
+  },
+  "1461584830104866816": {
+    "elo": 1060,
+    "wins": 4,
+    "losses": 1,
+    "name": "polosayuruki",
+    "history": [
+      {
+        "result": "W",
+        "elo_change": 16,
+        "old_elo": 1044,
+        "new_elo": 1060,
+        "opponent": "bozlerty",
+        "timestamp": "2026-06-06T08:55:38.241592+00:00"
+      },
+      {
+        "result": "W",
+        "elo_change": 16,
+        "old_elo": 1028,
+        "new_elo": 1044,
+        "opponent": "bozlerty",
+        "timestamp": "2026-06-06T08:52:51.605569+00:00"
+      },
+      {
+        "result": "W",
+        "elo_change": 30,
+        "old_elo": 998,
+        "new_elo": 1028,
+        "opponent": "bozlerty",
+        "timestamp": "2026-06-06T08:32:50.404162+00:00"
+      },
+      {
+        "result": "L",
+        "elo_change": -17,
+        "old_elo": 1015,
+        "new_elo": 998,
+        "opponent": "bozlerty",
+        "timestamp": "2026-06-06T08:22:37.437383"
+      },
+      {
+        "result": "W",
+        "elo_change": 15,
+        "old_elo": 1000,
+        "new_elo": 1015,
+        "opponent": "bozlerty",
+        "timestamp": "2026-06-06T05:36:13.612557"
+      }
+    ]
+  }
+}

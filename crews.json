@@ -1,0 +1,16 @@
+{
+  "crews": {
+    "1447123381446115363": {
+      "name": "zxc",
+      "icon": null,
+      "roblox": null,
+      "discord": null,
+      "owner": 1447123381446115363,
+      "roster": {
+        "1447123381446115363": "owner",
+        "1461584830104866816": "member"
+      }
+    }
+  },
+  "pending_invites": {}
+}
